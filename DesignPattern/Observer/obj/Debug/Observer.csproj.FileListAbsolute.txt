@@ -1,0 +1,12 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Observer\bin\Debug\Observer.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Observer\bin\Debug\Observer.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Observer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Observer\obj\Debug\Observer.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Observer\obj\Debug\Observer.pdb
+F:\面试资源\DesignPattern\Observer\bin\Debug\Observer.exe
+F:\面试资源\DesignPattern\Observer\bin\Debug\Observer.pdb
+F:\面试资源\DesignPattern\Observer\obj\Debug\ResolveAssemblyReference.cache
+F:\面试资源\DesignPattern\Observer\obj\Debug\Observer.exe
+F:\面试资源\DesignPattern\Observer\obj\Debug\Observer.pdb
+D:\My Works\DesignPattern\Observer\obj\Debug\Observer.exe
+D:\My Works\DesignPattern\Observer\obj\Debug\Observer.pdb

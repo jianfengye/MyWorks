@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Iterator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Iterator\bin\Debug\Iterator.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Iterator\bin\Debug\Iterator.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Iterator\obj\Debug\Iterator.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Iterator\obj\Debug\Iterator.pdb

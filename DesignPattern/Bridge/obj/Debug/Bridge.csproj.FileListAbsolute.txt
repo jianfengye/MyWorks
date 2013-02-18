@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Bridge\bin\Debug\Bridge.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Bridge\bin\Debug\Bridge.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Bridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Bridge\obj\Debug\Bridge.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Bridge\obj\Debug\Bridge.pdb

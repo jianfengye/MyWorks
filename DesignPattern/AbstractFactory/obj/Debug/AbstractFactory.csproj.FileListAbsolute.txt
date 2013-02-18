@@ -1,0 +1,12 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\yejianfeng\Documents\360云盘\Mesh\小工具\My Works\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\yejianfeng\Documents\360云盘\Mesh\小工具\My Works\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

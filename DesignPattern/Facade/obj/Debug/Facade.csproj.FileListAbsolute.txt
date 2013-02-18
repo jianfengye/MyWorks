@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Facade\bin\Debug\Facade.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Facade\bin\Debug\Facade.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Facade\obj\Debug\Facade.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Facade\obj\Debug\Facade.pdb

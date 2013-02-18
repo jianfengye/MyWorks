@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Flyweight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Flyweight\obj\Debug\Flyweight.pdb

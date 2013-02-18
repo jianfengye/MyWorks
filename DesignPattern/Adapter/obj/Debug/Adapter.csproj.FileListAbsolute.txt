@@ -1,0 +1,10 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Adapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Adapter\obj\Debug\Adapter.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Adapter\obj\Debug\Adapter.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Adapter\obj\Debug\ResolveAssemblyReference.cache

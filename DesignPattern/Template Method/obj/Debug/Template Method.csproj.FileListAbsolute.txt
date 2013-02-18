@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Template Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Template Method\bin\Debug\Template Method.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Template Method\bin\Debug\Template Method.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Template Method\obj\Debug\Template Method.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Template Method\obj\Debug\Template Method.pdb

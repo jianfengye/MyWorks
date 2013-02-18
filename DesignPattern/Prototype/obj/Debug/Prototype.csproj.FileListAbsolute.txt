@@ -1,0 +1,10 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Prototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Prototype\bin\Debug\Prototype.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Prototype\obj\Debug\Prototype.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Prototype\obj\Debug\Prototype.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Prototype\bin\Debug\Prototype.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Prototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Prototype\obj\Debug\Prototype.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Prototype\obj\Debug\Prototype.pdb

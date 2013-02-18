@@ -1,0 +1,7 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Interpreter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Interpreter\obj\Debug\Interpreter.pdb
+F:\面试资源\DesignPattern\Interpreter\obj\Debug\Interpreter.exe
+F:\面试资源\DesignPattern\Interpreter\obj\Debug\Interpreter.pdb

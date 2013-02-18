@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Command\bin\Debug\Command.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Command\bin\Debug\Command.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Command\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Command\obj\Debug\Command.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Command\obj\Debug\Command.pdb

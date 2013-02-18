@@ -1,0 +1,10 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Singleton\bin\Debug\Singleton.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Singleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Singleton\obj\Debug\Singleton.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Singleton\bin\Debug\Singleton.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Singleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Singleton\obj\Debug\Singleton.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Singleton\obj\Debug\Singleton.pdb

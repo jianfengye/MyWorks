@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DesignPattern">
+</Property><Property Name="Solution File" Value="D:\My Works\DesignPattern\DesignPattern.sln">
+</Property><Property Name="User Options File" Value="D:\My Works\DesignPattern\DesignPattern.suo">
+</Property><Property Name="Date" Value="2011年4月6日">
+</Property><Property Name="Time" Value="8:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DesignPattern.sln" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\DesignPattern.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DesignPattern.suo" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\DesignPattern.suo">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AbstractFactory.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\AbstractFactory.csproj">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AfricaFactory.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\AfricaFactory.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AmericaFactory.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\AmericaFactory.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AnimalWorld.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\AnimalWorld.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\ContinentFactory.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\ContinentFactory.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\Program.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AbStractFactory Resource\abstractFactory.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\AbstractFactory\AbStractFactory Resource\abstractFactory.gif">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AbstractFactory.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AbstractFactory" Source="AbstractFactory\AbstractFactory.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Builder.csproj">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\CarBuilder.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\CarBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\MotorCycleBuilder.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\MotorCycleBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Program.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\ScooterBuilder.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\ScooterBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Shop.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Shop.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Vehicle.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Vehicle.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\VehicleBuilder.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\VehicleBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder Resource\builder.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Builder\Builder Resource\builder.gif">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Builder" Source="Builder\Builder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Factory Method.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Factory Method.csproj">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\BibliographyPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\BibliographyPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\ConclusionPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\ConclusionPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Document.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Document.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\EducationPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\EducationPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\ExperiencePage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\ExperiencePage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\IntroductionPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\IntroductionPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Page.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Page.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Program.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Report.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Report.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\ResultsPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\ResultsPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Resume.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Resume.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\SkillsPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\SkillsPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\SummaryPage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\SummaryPage.cs">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Factory Method Resource\FactoryMethod.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Factory Method\Factory Method Resource\FactoryMethod.gif">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Factory Method.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Factory Method" Source="Factory Method\Factory Method.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Prototype.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\Prototype.csproj">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Color.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\Color.cs">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\ColorManager.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\ColorManager.cs">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\ColorPrototype.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\ColorPrototype.cs">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\Program.cs">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Prototype Resource\prototype.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Prototype\Prototype Resource\prototype.gif">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Prototype.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Prototype" Source="Prototype\Prototype.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Singleton.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Singleton\Singleton.csproj">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\LoadBalancer.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Singleton\LoadBalancer.cs">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Singleton\Program.cs">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Singleton\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Singleton Resource\singleton.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Singleton\Singleton Resource\singleton.gif">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Singleton.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Singleton" Source="Singleton\Singleton.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\Adapter.csproj">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\ChemicalDatabank.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\ChemicalDatabank.cs">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Compound.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\Compound.cs">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\Program.cs">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\RichCompound.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\RichCompound.cs">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter Resource\adapter.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Adapter\Adapter Resource\adapter.gif">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Bridge.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\Bridge.csproj">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Customers.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\Customers.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\CustomersBase.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\CustomersBase.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\CustomersData.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\CustomersData.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\DataObject.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\DataObject.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\Program.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Bridge Resource\bridge.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Bridge\Bridge Resource\bridge.gif">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Bridge.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bridge" Source="Bridge\Bridge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Composite.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Composite\Composite.csproj">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\CompositeElement.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\CompositeElement.cs">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\DrawingElement.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\DrawingElement.cs">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\PrimitiveElement.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\PrimitiveElement.cs">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\Program.cs">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Composite Resource\composite.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Composite\Composite Resource\composite.gif">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Composite.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Composite" Source="Composite\Composite.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Decorator.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Decorator.csproj">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Book .cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Book .cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Borrowable.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Borrowable.cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Decorator .cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Decorator .cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\LibraryItem.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\LibraryItem.cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Program.cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Video.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Video.cs">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Decorator\decorator.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Decorator\Decorator\decorator.gif">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Decorator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Decorator" Source="Decorator\Decorator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Facade.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Facade.csproj">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Bank.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Bank.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Credit.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Credit.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Customer.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Customer.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Loan.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Loan.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Mortgage.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Mortgage.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Program.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Facade\facade.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Facade\Facade\facade.gif">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Facade.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Facade" Source="Facade\Facade.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Flyweight.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\Flyweight.csproj">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Character.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\Character.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\CharacterA.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\CharacterA.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\CharacterB.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\CharacterB.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\CharacterFactory.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\CharacterFactory.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\CharacterZ.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\CharacterZ.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\Program.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Flyweight\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Flyweight.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Flyweight" Source="Flyweight\Flyweight.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Proxy.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\Proxy.csproj">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\IMath.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\IMath.cs">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Math.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\Math.cs">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\MathProxy.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\MathProxy.cs">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\Program.cs">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Proxy\proxy.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Proxy\Proxy\proxy.gif">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Proxy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Proxy" Source="Proxy\Proxy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Chain of Responsibility.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Chain of Responsibility.csproj">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Approver.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Approver.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Director.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Director.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\President.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\President.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Program.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Purchase.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Purchase.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\VicePresident.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\VicePresident.cs">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Chain of Responsibility\chain.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Chain of Responsibility\Chain of Responsibility\chain.gif">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Chain of Responsibility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chain of Responsibility" Source="Chain of Responsibility\Chain of Responsibility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Command.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Command\Command.csproj">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Calculator.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\Calculator.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\CalculatorCommand.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\CalculatorCommand.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Command.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\Command.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\Program.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\User.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\User.cs">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Command\command.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Command\Command\command.gif">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Command.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Command" Source="Command\Command.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Interpreter.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Interpreter.csproj">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Context.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Context.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Expression.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Expression.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\HundredExpression.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\HundredExpression.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\OneExpression.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\OneExpression.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Program.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\TenExpression.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\TenExpression.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\ThousandExpression.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\ThousandExpression.cs">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Interpreter\interpreter.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Interpreter\Interpreter\interpreter.gif">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Interpreter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Interpreter" Source="Interpreter\Interpreter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Iterator.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Iterator.csproj">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Collection.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Collection.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\IAbstractCollection.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\IAbstractCollection.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\IAbstractIterator.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\IAbstractIterator.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Item.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Item.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Iterator.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Iterator.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Program.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Iterator\iterator.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Iterator\Iterator\iterator.gif">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Iterator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Iterator" Source="Iterator\Iterator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Mediator.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Mediator.csproj">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\AbstractChatroom.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\AbstractChatroom.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Beatle.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Beatle.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Chatroom.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Chatroom.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\NonBeatle.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\NonBeatle.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Participant.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Participant.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Program.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Mediator\mediator.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Mediator\Mediator\mediator.gif">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Mediator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mediator" Source="Mediator\Mediator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Memento.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Memento\Memento.csproj">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Memento.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\Memento.cs">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\Program.cs">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\ProspectMemory.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\ProspectMemory.cs">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\SalesProspect.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\SalesProspect.cs">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Memento\memento.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Memento\Memento\memento.gif">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Memento.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Memento" Source="Memento\Memento.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Observer.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Observer.csproj">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\IBM.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\IBM.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\IInvestor.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\IInvestor.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Investor.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Investor.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Program.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Stock.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Stock.cs">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Observer\observer.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Observer\Observer\observer.gif">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Observer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Observer" Source="Observer\Observer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="State" Source="State\State.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\State\State.csproj">
+</Event><Event ErrorLevel="0" Project="State" Source="State\Account.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\Account.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\GoldState.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\GoldState.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\Program.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\RedState.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\RedState.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\SilverState.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\SilverState.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\State.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\State.cs">
+</Event><Event ErrorLevel="0" Project="State" Source="State\State\state.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\State\State\state.gif">
+</Event><Event ErrorLevel="0" Project="State" Source="State\State.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="State" Source="State\State.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Strategy.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\Strategy.csproj">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\MergeSort.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\MergeSort.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\Program.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\QuickSort.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\QuickSort.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\ShellSort.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\ShellSort.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\SortedList.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\SortedList.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\SortStrategy.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\SortStrategy.cs">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Strategy\strategy.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Strategy\Strategy\strategy.gif">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Strategy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Strategy" Source="Strategy\Strategy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Template Method.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Template Method.csproj">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Categories.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Categories.cs">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\DataAccessObject.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\DataAccessObject.cs">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Products.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Products.cs">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Program.cs">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Template Method\template.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Template Method\Template Method\template.gif">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Template Method.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Template Method" Source="Template Method\Template Method.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Visitor.csproj" Description="Project file successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Visitor.csproj">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\employee types.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\employee types.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Element.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Element.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Employee.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Employee.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Employees.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Employees.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\IncomeVisitor.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\IncomeVisitor.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\IVisitor.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\IVisitor.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Program.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Program.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\VacationVisitor.cs" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\VacationVisitor.cs">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Visitor\visitor.gif" Description="File successfully backed up as D:\My Works\DesignPattern\Backup\Visitor\Visitor\visitor.gif">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Visitor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Visitor" Source="Visitor\Visitor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DesignPattern.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DesignPattern.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AbstractFactory" Source="AbstractFactory\AbstractFactory.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Builder" Source="Builder\Builder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Factory Method" Source="Factory Method\Factory Method.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Prototype" Source="Prototype\Prototype.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Singleton" Source="Singleton\Singleton.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Bridge" Source="Bridge\Bridge.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Composite" Source="Composite\Composite.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Decorator" Source="Decorator\Decorator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Facade" Source="Facade\Facade.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Flyweight" Source="Flyweight\Flyweight.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Proxy" Source="Proxy\Proxy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Chain of Responsibility" Source="Chain of Responsibility\Chain of Responsibility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Command" Source="Command\Command.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Interpreter" Source="Interpreter\Interpreter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Iterator" Source="Iterator\Iterator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Mediator" Source="Mediator\Mediator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Memento" Source="Memento\Memento.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Observer" Source="Observer\Observer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="State" Source="State\State.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Strategy" Source="Strategy\Strategy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Template Method" Source="Template Method\Template Method.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Visitor" Source="Visitor\Visitor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

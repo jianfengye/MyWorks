@@ -1,0 +1,10 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Factory Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Factory Method\obj\Debug\Factory Method.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Factory Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Factory Method\obj\Debug\Factory Method.pdb

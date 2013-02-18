@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Visitor\bin\Debug\Visitor.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Visitor\bin\Debug\Visitor.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Visitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Visitor\obj\Debug\Visitor.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Visitor\obj\Debug\Visitor.pdb

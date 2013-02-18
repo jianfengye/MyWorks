@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Proxy\bin\Debug\Proxy.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Proxy\bin\Debug\Proxy.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Proxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Proxy\obj\Debug\Proxy.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Strategy\bin\Debug\Strategy.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Strategy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Strategy\obj\Debug\Strategy.pdb

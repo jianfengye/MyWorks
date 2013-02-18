@@ -1,0 +1,10 @@
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Builder\bin\Debug\Builder.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Builder\bin\Debug\Builder.pdb
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Builder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Builder\obj\Debug\Builder.exe
+C:\Users\v-jiaye\Desktop\JustForTest\DesignPattern\Builder\obj\Debug\Builder.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Builder\bin\Debug\Builder.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Builder\bin\Debug\Builder.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Builder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Builder\obj\Debug\Builder.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Builder\obj\Debug\Builder.pdb

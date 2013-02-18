@@ -1,0 +1,5 @@
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Memento\bin\Debug\Memento.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Memento\bin\Debug\Memento.pdb
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Memento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Memento\obj\Debug\Memento.exe
+C:\Users\v-jiaye\Desktop\面试资源\DesignPattern\Memento\obj\Debug\Memento.pdb
