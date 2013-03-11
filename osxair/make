@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+if [ ! -f make ]; then
+    echo 'make must be run within its container folder' 1>&2
+    exit 1
+fi
+
+export CGO_ENABLED=0
+export GOROOT=/Users/yejianfeng/software/go
+
+OLDPATH="$PATH"
+export PATH=$PATH:$GOROOT/bin
+OLDGOPATH="$GOPATH"
+export GOPATH=`pwd`
+
+go install osxair_client
+go install osxair_web
+
+export GOPATH="$OLDGOPATH"
+export PATH="$OLDPATH"
+
+echo 'finished.'

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>OSXAir</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+    <script src="/js/jquery.js"></script>
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">OSXAir</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+    	<div class="span9">
+	    	<h1>Ituns Pannel</h1>
+	  	</div>
+      <div class="span9" style="">
+          <div>
+        		<input type="button" data-type="websocket-action" websocket-action="play" websocket-params="" 
+            class="btn btn-large btn-primary" value="Play"/>
+          </div>
+          <div>
+        		<input type="button" data-type="websocket-action" websocket-action="volup" websocket-params="" 
+            class="btn btn-large btn-primary btn-success" value="Vol Up"/>
+          </div>
+          <div>
+      		  <input type="button" data-type="websocket-action" websocket-action="voldown" websocket-params=""
+            class="btn btn-large btn-primary btn-success" value="Vol Down"/>
+      	  </div>
+          <div>
+            <input type="button" data-type="websocket-action" websocket-action="prev" websocket-params=""
+            class="btn btn-large btn-primary btn-success" value="Prev"/>
+          </div>
+          <div>
+            <input type="button" data-type="websocket-action" websocket-action="next" websocket-params=""
+            class="btn btn-large btn-primary btn-success" value="Next"/>
+      		</div>
+          <div>
+            <input type="button" data-type="websocket-action" websocket-action="stop" websocket-params=""
+            class="btn btn-large btn-primary btn-danger" value="Stop"/>
+          </div>
+      </div> 
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script src="/js/bootstrap-transition.js"></script>
+    <script src="/js/bootstrap-alert.js"></script>
+    <script src="/js/bootstrap-modal.js"></script>
+    <script src="/js/bootstrap-dropdown.js"></script>
+    <script src="/js/bootstrap-scrollspy.js"></script>
+    <script src="/js/bootstrap-tab.js"></script>
+    <script src="/js/bootstrap-tooltip.js"></script>
+    <script src="/js/bootstrap-popover.js"></script>
+    <script src="/js/bootstrap-button.js"></script>
+    <script src="/js/bootstrap-collapse.js"></script>
+    <script src="/js/bootstrap-carousel.js"></script>
+    <script src="/js/bootstrap-typeahead.js"></script>
+    <script src="/js/websocket.js"></script>
+  </body>
+</html>

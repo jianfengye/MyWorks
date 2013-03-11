@@ -1,0 +1,8 @@
+input[class*="common"] {
+	min-height: 28px;
+}
+
+.form-actions {
+	background-color: whiteSmoke;
+	border-top: 0px;
+}
