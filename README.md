@@ -52,9 +52,14 @@ url_example: url的包使用示例
 ========
 
 
-webscaner: 抓取一个网站的静态同域链接
+webscaner: go抓取一个网站的静态同域链接
 
 ========
 
 
 piccheck: 处理csv的某个字段和文件的关系
+
+========
+
+
+getDomainLinks: php抓取一个网站的静态同域连接（使用snoopy）
