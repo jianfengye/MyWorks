@@ -45,7 +45,6 @@ ngx_module_t ngx_http_mytest_module = {
     NULL,
     NULL,
     NULL,
-    NULL,
     NGX_MODULE_V1_PADDING
 };
 
