@@ -27,7 +27,7 @@ static ngx_command_t ngx_http_mysecret_commands[] = {
 		NULL,
 	},
 	{
-		ngx_string("mysecret"),
+		ngx_string("checksecret"),
 		NGX_HTTP_LOC_CONF | NGX_CONF_NOARGS,
 		ngx_http_mysecret,
 		NGX_HTTP_LOC_CONF_OFFSET,
